@@ -1,4 +1,4 @@
-mport random
+import random
 import string
 
 def randomString(stringLength=10):
