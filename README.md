@@ -25,7 +25,7 @@ Google Cloud Functions is a lightweight compute solution for developers to creat
 
 ## Requirement:
 The requirement was to build a rest endpoint which returns random characters. In the real world problem, it could be getting value from Cloud SQL  or any of your backend systems.
-So, I have the build the application both using Functions and App Engine. 
+I have created the application both in Cloud Functions and App Engine. 
 
 ### Function Code:
 
